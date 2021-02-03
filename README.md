@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Johan Awan, and I love building products, programming and web technologies:
+My name is Johan Awan, and I love building products and web technologies:
 
 - 🔭 I’m currently working on ... Combining backend and frontend frameworks to build web technologies.
 - 🌱 I’m currently learning ... Many Python libraries
